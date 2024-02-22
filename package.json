@@ -1,0 +1,19 @@
+{
+  "name": "deotheme",
+  "version": "1.0.0",
+  "description": "js theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuandieu1210/deotheme.git"
+  },
+  "author": "xuandieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuandieu1210/deotheme/issues"
+  },
+  "homepage": "https://github.com/xuandieu1210/deotheme#readme"
+}
